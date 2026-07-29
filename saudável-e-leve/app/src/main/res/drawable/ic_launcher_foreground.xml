@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Financial bar chart icon inside safe area (21..87) -->
+    <path
+        android:fillColor="#E8B84F"
+        android:pathData="M30,68h8V48h-8v20z M44,68h8V36h-8v32z M58,68h8V54h-8v14z M72,68h8V28h-8v40z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M26,72h56v3H26z" />
+    <path
+        android:fillColor="#FF7A45"
+        android:pathData="M32,44l16-12 14,8 18-16 4,4-22 20-14-8-12 9z" />
+</vector>

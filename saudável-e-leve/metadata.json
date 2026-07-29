@@ -1,0 +1,6 @@
+{
+  "name": "Saudável e Leve",
+  "description": "App de nutrição completa, contagem de calorias e macros, diário de refeições, protocolo detox e anamnese de saúde.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
